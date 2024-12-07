@@ -1,0 +1,6 @@
+django-cleanup
+fontawesomefree
+pillow
+sslcommerz-python
+django-crispy-forms
+crispy-bootstrap5
